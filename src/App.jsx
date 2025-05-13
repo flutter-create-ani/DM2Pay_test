@@ -1,7 +1,7 @@
 import { createRoot } from "react-dom/client";
 import React from "react";
 // import { Route } from "react-router/client";
-import Collections from "./pages/collections";
+// import Collections from "./pages/collections";
 import AllCollections from "./pages/AllCollections";
 const App = () => {
     return (
